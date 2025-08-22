@@ -1,0 +1,13 @@
+name: Invoke-ADEnum
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/ca7eed6d-c74a-40a6-b568-2bdcc215b294
+description: Active Directory Auditing and Enumeration
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
